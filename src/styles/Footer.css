@@ -1,0 +1,9 @@
+.bg-footer{
+    width: 100%;
+    height: auto;
+    padding: .5rem 0;
+    text-transform: uppercase;
+    color: black;
+    background: greenyellow;
+    text-align: center;
+}
